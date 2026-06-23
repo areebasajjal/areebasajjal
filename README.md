@@ -1,29 +1,27 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Hi%20I'm%20Areeba%20Sajjal&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=160&section=header&text=Hi%20I'm%20Areeba%20Sajjal&fontSize=35&fontColor=ffffff"/>
 </p>
 
 <p align="center">
 </p>
----
-## About me:
 
-I’m a learner who learns best by building, breaking, and rebuilding things.
+---
+
+## About Me
+I learn by building things, breaking them, and fixing them better.
 
 ---
 
 ## Currently Working On
-
-- Strengthening DSA fundamentals
-- Improving Java backend design thinking
-- Building Spring Boot foundation
-- Preparing for internship-level projects
+- Data Structures & Algorithms  
+- Spring Boot fundamentals
+- understanding system design  
 
 ---
 
 ## Tech Stack
-
-Java • OOP • Flutter (learning) • SQL• Git • DSA (in progress)
+Java • OOP • SQL • Git • DSA (learning)
 
 ---
 
