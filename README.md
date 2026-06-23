@@ -5,8 +5,6 @@
 
 <p align="center">
 </p>
-
----
 ## About me:
 
 I’m a learner who learns best by building, breaking, and rebuilding things.
