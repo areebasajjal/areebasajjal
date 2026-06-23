@@ -9,43 +9,30 @@ Java Developer • Backend Systems Builder • OOP + DSA Learner
 
 ---
 
-## // about_me
+## About me:
 
-I like building systems that actually *do something* — not just code that runs.
+ I'm a learner
 
 Currently focused on:
 - Java + OOP design
-- Desktop applications (Swing)
+- Flutter
 - Backend logic & architecture
 - Data Structures & problem solving
+- Spring Boot
 
 ---
 
-## // what_i_build
+## What I built:
 
-I don’t just write programs — I build structured applications like:
-
-- Trip management systems
-- Student management systems
+- TripMate - a travel partern all in one.
+- Student management system.
+- CLI based systems
 - Client-based desktop applications
 - File-based persistence systems
 
 ---
 
-## 🚀 Featured Project
-
-### 🧳 TripMate — Travel Planning System
-A Java Swing desktop application for managing trips, destinations, and activities.
-
-Key ideas:
-- Modular OOP architecture
-- Multi-entity system design
-- Persistent storage using serialization
-- Full UI-driven workflow
-
----
-
-## 🧠 Currently Working On
+## Currently Working On
 
 - Strengthening DSA fundamentals
 - Improving Java backend design thinking
@@ -54,23 +41,15 @@ Key ideas:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-Java • OOP • Swing • File Handling • Git • DSA (in progress)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=areebasajjal&show_icons=true&theme=tokyonight"/>
-</p>
+Java • OOP • Flutter (learning) • SQL• Git • DSA (in progress)
 
 ---
 
-## 📌 Philosophy
+## Philosophy
 
-> “If it doesn’t scale logically, it’s not clean code.”
+> Building systems, breaking systems, and calling both ‘learning’.
 
 ---
 
