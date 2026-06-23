@@ -4,31 +4,12 @@
 </p>
 
 <p align="center">
-Java Developer • Backend Systems Builder • OOP + DSA Learner
 </p>
 
 ---
-
 ## About me:
 
- I'm a learner
-
-Currently focused on:
-- Java + OOP design
-- Flutter
-- Backend logic & architecture
-- Data Structures & problem solving
-- Spring Boot
-
----
-
-## What I built:
-
-- TripMate - a travel partern all in one.
-- Student management system.
-- CLI based systems
-- Client-based desktop applications
-- File-based persistence systems
+I’m a learner who learns best by building, breaking, and rebuilding things.
 
 ---
 
@@ -44,12 +25,6 @@ Currently focused on:
 ## Tech Stack
 
 Java • OOP • Flutter (learning) • SQL• Git • DSA (in progress)
-
----
-
-## Philosophy
-
-> Building systems, breaking systems, and calling both ‘learning’.
 
 ---
 
