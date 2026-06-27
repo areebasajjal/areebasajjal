@@ -16,7 +16,8 @@ I learn by building things, breaking them, and fixing them better.
 ## Currently Working On
 - Data Structures & Algorithms  
 - Spring Boot fundamentals
-- understanding system design  
+- understanding system design
+- flutter and Mobile app development
 
 ---
 
